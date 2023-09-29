@@ -1,0 +1,122 @@
+
+ul.slimmenu li a:hover,
+ul.slimmenu li a.mPS2id-highlight,
+.cbp-af-header.cbp-af-header-shrink ul.slimmenu li a:hover,
+.cbp-af-header.cbp-af-header-shrink ul.slimmenu li a.mPS2id-highlight,
+#royal_preloader.text .loader,
+.page-center-wrap .home-big-text,
+.logo-text-footer,
+.logo-text-footer:hover,
+.mail-text-footer:hover,
+.list-social-footer li:hover.icon-footer a,
+.list-social-team li:hover.icon-team a,
+.menu > ul > li a:hover,
+.menu > ul > li > ul > li p span,
+.menu > ul > li > ul > li a span,
+.menu > ul > li a.curent-multi-page,
+.cbp-af-header.cbp-af-header-shrink .menu > ul > li a.curent-multi-page,
+.menu.light > ul > li a.curent-multi-page,
+.menu.light > ul > li a:hover,
+.cbp-af-header.cbp-af-header-shrink .menu.light > ul > li a.curent-multi-page,
+.menu a span.link-icon,
+.menu > ul > li > ul.normal-sub li a.subtitled,
+.cbp-af-header.cbp-af-header-shrink .menu > ul > li > ul.normal-sub li a.subtitled,
+.menu.light > ul > li a.social:hover,
+.cbp-af-header.cbp-af-header-shrink .menu.light > ul > li a.social:hover,
+.menu > ul > li a.social:hover,
+.cbp-af-header.cbp-af-header-shrink .menu > ul > li a.social:hover,
+.case-study-wrapper li a:hover,
+.left-projects:hover,
+.right-projects:hover,
+h6,
+.title-wrapper .title-text-top,
+.content-in .tag-link:hover,
+.content-in .blog-link,
+.comm-link,
+.comment a,
+.sidebar-list-one li a:hover{
+	color:#7f40f1;
+}
+#royal_preloader.royal_preloader_progress .royal_preloader_meter,
+.portfolio-box-1 .work-title:before,
+.cd-headline.type .cd-words-wrapper.selected,
+#owl-home.owl-theme .owl-controls .owl-page.active span,
+#owl-home.owl-theme .owl-controls .owl-page span:hover,
+#owl-sep-1.owl-theme .owl-controls .owl-page.active span,
+#ajax-form button:hover,
+#cd-zoom-in, #cd-zoom-out,
+.sidebar-search button,
+.sidebar-list-two li a:hover{
+	background-color: #7f40f1;
+}
+.sidebar-list-one li:before{ 
+	border:1px solid #7f40f1;
+}
+.sidebar-list-two li a:hover{
+	border:2px solid #7f40f1;
+}
+.post-wrapper blockquote{ 
+	border-left:3px solid #7f40f1;
+}
+#ajax-form textarea:focus,
+#ajax-form input:focus,
+#ajax-form textarea:active,
+#ajax-form input:active,
+.sidebar-search input:active,
+.sidebar-search input:focus {	
+	border-bottom:1px solid #7f40f1;
+}
+#filter li .current,
+#filter li a:hover  {
+	border:2px solid #7f40f1;
+}
+
+::selection {
+	color:#7f40f1;
+	}
+::-moz-selection {
+	color:#7f40f1;
+}
+
+
+.tipper .tipper-content,
+.num-of-com span{
+	color:#fcf652;
+}
+h6:before,
+.partners,
+.content-in,
+#owl-blog-slider.owl-theme .owl-controls .owl-page.active span,
+#owl-blog-slider.owl-theme .owl-controls .owl-page span:hover{
+	background-color:#fcf652;
+}
+
+::selection {
+	background: #fcf652;
+}
+::-moz-selection {
+	background: #fcf652;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
