@@ -1,0 +1,251 @@
+		<nav id="menu-wrap" class="menu-back cbp-af-header light"> <!-- fixed container --> <!-- ADD CLASS LIGHT ON FIXED CONTAINER TO CHANGE IT TO LIGHT SCHEME -->
+			<div class="menu-container">
+				<div class="logo light"><img src="images/chikoddish_logo.png" alt=""></div> <!-- logo in absolute position --> <!-- ADD CLASS LIGHT ON LOGO TO CHANGE LOGO FOR LIGHT SCHEME -->
+				<div class="menu light"> <!-- menu start --> <!-- ADD CLASS LIGHT ON MENU TO CHANGE MENU TO LIGHT SCHEME -->
+					<ul> 
+						<li> 
+							<a href="index.html" class="curent-multi-page">Work</a> <!-- main links -->
+							<ul class="normal-sub">
+								<li><a href="index1.html">2 columns</a></li>
+								<li><a href="index.html" class="curent-multi-page">3 columns</a></li>
+								<li><a href="index2.html">case study</a></li>
+								<li><a href="index3.html">intro slider</a></li>
+								<li><a href="index4.html">text rotator</a></li>
+							</ul>
+						</li>
+						<li>
+							<a href="about.html">About</a> <!-- main links -->
+						</li>
+						<li>
+							<a href="blog.html">Journal</a> <!-- main links -->
+						</li>
+						<li>
+							<a href="contact.html">Contact</a> <!-- main links -->
+						</li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+
+
+
+      <div class="section padding-top-bottom back-white">
+        <div class="section">
+      
+          <div class="clear"></div>
+      
+          <div class="section">
+            <div id="portfolio-filter" class="portfolio-filter">
+              <ul id="filter">
+                <li><a href="#" class="current" data-filter="*" title="">all</a></li>
+                <li class="tipped" data-title="3 projects" data-tipper-options="{"
+                  direction":"top","follow":"true","margin":35}"=""><a href="#" data-filter=".branding" title="">branding</a>
+                </li>
+                <li class="tipped" data-title="3 projects" data-tipper-options="{"
+                  direction":"top","follow":"true","margin":35}"=""><a href="#" data-filter=".photo" title="">photo</a></li>
+                <li class="tipped" data-title="4 projects" data-tipper-options="{"
+                  direction":"top","follow":"true","margin":35}"=""><a href="#" data-filter=".motion" title="">motion</a></li>
+              </ul>
+            </div>
+      
+            <div id="projects-grid">
+              <a href="project.html">
+                <div class="portfolio-box-1 branding">
+                  <div id="rev-1">
+                    <div class="content__image-wrap">
+                      <img src="images/1.jpg" alt="">
+                    </div>
+                  </div>
+                  <div id="rev-2" class="work-subtitle">
+                    branding
+                  </div>
+                  <br>
+                  <div id="rev-3" class="work-title">
+                    project name
+                  </div>
+                </div>
+              </a>
+              <a href="project.html">
+                <div class="portfolio-box-1 photo">
+                  <div id="rev-4">
+                    <div class="content__image-wrap">
+                      <img src="images/2.jpg" alt="">
+                    </div>
+                  </div>
+                  <div id="rev-5" class="work-subtitle">
+                    photo
+                  </div>
+                  <br>
+                  <div id="rev-6" class="work-title">
+                    project name
+                  </div>
+                </div>
+              </a>
+              <a href="project.html">
+                <div class="portfolio-box-1 motion">
+                  <div id="rev-7">
+                    <div class="content__image-wrap">
+                      <img src="images/3.jpg" alt="">
+                    </div>
+                  </div>
+                  <div id="rev-8" class="work-subtitle">
+                    motion
+                  </div>
+                  <br>
+                  <div id="rev-9" class="work-title">
+                    project name
+                  </div>
+                </div>
+              </a>
+              <a href="project.html">
+                <div class="portfolio-box-1 branding">
+                  <div id="rev-10">
+                    <div class="content__image-wrap">
+                      <img src="images/4.jpg" alt="">
+                    </div>
+                  </div>
+                  <div id="rev-11" class="work-subtitle">
+                    branding
+                  </div>
+                  <br>
+                  <div id="rev-12" class="work-title">
+                    project name
+                  </div>
+                </div>
+              </a>
+              <a href="project.html">
+                <div class="portfolio-box-1 photo">
+                  <div id="rev-13">
+                    <div class="content__image-wrap">
+                      <img src="images/5.jpg" alt="">
+                    </div>
+                  </div>
+                  <div id="rev-14" class="work-subtitle">
+                    photo
+                  </div>
+                  <br>
+                  <div id="rev-15" class="work-title">
+                    project name
+                  </div>
+                </div>
+              </a>
+              <a href="project.html">
+                <div class="portfolio-box-1 motion">
+                  <div id="rev-16">
+                    <div class="content__image-wrap">
+                      <img src="images/6.jpg" alt="">
+                    </div>
+                  </div>
+                  <div id="rev-17" class="work-subtitle">
+                    motion
+                  </div>
+                  <br>
+                  <div id="rev-18" class="work-title">
+                    project name
+                  </div>
+                </div>
+              </a>
+              <a href="project.html">
+                <div class="portfolio-box-1 motion">
+                  <div id="rev-19">
+                    <div class="content__image-wrap">
+                      <img src="images/7.jpg" alt="">
+                    </div>
+                  </div>
+                  <div id="rev-20" class="work-subtitle">
+                    motion
+                  </div>
+                  <br>
+                  <div id="rev-21" class="work-title">
+                    project name
+                  </div>
+                </div>
+              </a>
+              <a href="project.html">
+                <div class="portfolio-box-1 branding">
+                  <div id="rev-22">
+                    <div class="content__image-wrap">
+                      <img src="images/8.jpg" alt="">
+                    </div>
+                  </div>
+                  <div id="rev-23" class="work-subtitle">
+                    branding
+                  </div>
+                  <br>
+                  <div id="rev-24" class="work-title">
+                    project name
+                  </div>
+                </div>
+              </a>
+              <a href="project.html">
+                <div class="portfolio-box-1 motion">
+                  <div id="rev-25">
+                    <div class="content__image-wrap">
+                      <img src="images/9.jpg" alt="">
+                    </div>
+                  </div>
+                  <div id="rev-26" class="work-subtitle">
+                    motion
+                  </div>
+                  <br>
+                  <div id="rev-27" class="work-title">
+                    project name
+                  </div>
+                </div>
+              </a>
+              <a href="project.html">
+                <div class="portfolio-box-1 photo">
+                  <div id="rev-28">
+                    <div class="content__image-wrap">
+                      <img src="images/10.jpg" alt="">
+                    </div>
+                  </div>
+                  <div id="rev-29" class="work-subtitle">
+                    photo
+                  </div>
+                  <br>
+                  <div id="rev-30" class="work-title">
+                    project name
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="section padding-top-bottom back-white footer">
+        <div class="container">
+          <div class="four columns" data-scroll-reveal="enter bottom move 60px over 0.9s after 0.1s">
+            <a href="#" class="logo-text-footer">Chikoddish</a>
+            <br>
+            <a href="#" class="mail-text-footer">ankit@chikoddish.com</a>
+          </div>
+          <div class="four columns" data-scroll-reveal="enter bottom move 60px over 0.9s after 0.1s">
+            <p>Willy Valentinsens vei 4B, 5161 Laksevåg, Norway</p>
+            <p>(+91)9468867068</p>
+          </div>
+          <div class="four columns" data-scroll-reveal="enter bottom move 60px over 0.9s after 0.1s">
+            <div class="social-footer">
+              <ul class="list-social-footer">
+                <li class="icon-footer tipped" data-title="twitter" data-tipper-options="{"
+                  direction":"top","follow":"true","margin":35}"="">
+                  <a href="#"></a>
+                </li>
+                <li class="icon-footer tipped" data-title="github" data-tipper-options="{"
+                  direction":"top","follow":"true","margin":35}"="">
+                  <a href="#"></a>
+                </li>
+                <li class="icon-footer tipped" data-title="pinterest" data-tipper-options="{"
+                  direction":"top","follow":"true","margin":35}"="">
+                  <a href="#"></a>
+                </li>
+                <li class="icon-footer tipped" data-title="facebook" data-tipper-options="{"
+                  direction":"top","follow":"true","margin":35}"="">
+                  <a href="#"></a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
